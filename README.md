@@ -1,0 +1,2 @@
+# termuxdog
+termux cryptonation
